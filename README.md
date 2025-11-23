@@ -100,9 +100,9 @@ Berdasarkan hasil evaluasi pada data testing, berikut adalah estimasi dampak fin
     * *Potensi Rugi:* **Rp 490.000.000** (Contoh)
 2.  **Dengan Model GuardianAI:**
     * Kerugian turun drastis karena mayoritas fraud terblokir.
-    * *Estimasi Rugi + Biaya Ops:* **Rp 49.000.000** (Contoh)
+    * *Estimasi Rugi + Biaya Ops:* **Rp 70.750.000** 
 
-### 💵 Total Uang yang Diselamatkan: Rp 441.000.000
+### 💵 Total Uang yang Diselamatkan: Rp 419.250.000
 *(Angka ini diambil dari output kode Python di notebook)*
 
 ---
