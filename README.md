@@ -135,4 +135,4 @@ Berdasarkan hasil evaluasi pada data testing, berikut adalah estimasi dampak fin
 
 ---
 **Author:** Gania Rafidah Huwaida
-*Connect with me on [LinkedIn](link-linkedin-kamu)*
+*Connect with me on [LinkedIn](https://www.linkedin.com/in/ganiarafida/)*
