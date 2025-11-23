@@ -124,7 +124,7 @@ Berdasarkan hasil evaluasi pada data testing, berikut adalah estimasi dampak fin
 
 1.  **Clone Repository**
     ```bash
-    git clone [https://github.com/username-kamu/credit-card-fraud-detection.git](https://github.com/username-kamu/credit-card-fraud-detection.git)
+    git clone [https://github.com/gnieerfd/credit-card-fraud-detection](https://github.com/gnieerfd/credit-card-fraud-detection)
     ```
 2.  **Install Requirements**
     ```bash
