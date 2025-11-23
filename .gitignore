@@ -1,0 +1,7 @@
+# Abaikan folder data (karena size besar)
+data/
+*.csv
+
+# Abaikan file cache python
+__pycache__/
+*.ipynb_checkpoints/
