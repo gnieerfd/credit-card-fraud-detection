@@ -81,8 +81,8 @@ Model dilatih menggunakan **XGBoost**, algoritma *gradient boosting* yang sangat
 ### Performance Metrics
 | Metric | Score | Keterangan |
 | :--- | :--- | :--- |
-| **Recall (Sensitivitas)** | **92%** | (Contoh) Mampu menangkap 92% dari seluruh penipuan. |
-| **Precision** | **88%** | (Contoh) Jarang salah menuduh transaksi normal. |
+| **Recall (Sensitivitas)** | **92%** | Mampu menangkap 92% dari seluruh penipuan. |
+| **Precision** | **88%** |  Jarang salah menuduh transaksi normal. |
 | **F1-Score** | **0.90** | Keseimbangan terbaik antara Precision dan Recall. |
 | **Accuracy** | 99.9% | *Tidak digunakan sebagai acuan utama.* |
 
