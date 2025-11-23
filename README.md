@@ -54,8 +54,7 @@ Data menunjukkan ketimpangan yang sangat ekstrem.
 * **Transaksi Normal:** 284,315 (99.83%)
 * **Transaksi Fraud:** 492 (0.17%)
 
-*(Masukkan screenshot grafik batang distribusi kelas kamu di sini)*
-`![Class Distribution](screenshots/class_dist.png)`
+![Class Distribution](screenshots/class_dist.png)
 
 ---
 
@@ -76,8 +75,8 @@ Untuk mengatasi masalah ketimpangan, diterapkan teknik berikut:
 Model dilatih menggunakan **XGBoost**, algoritma *gradient boosting* yang sangat efektif untuk data tabular.
 
 ### Confusion Matrix
-*(Masukkan screenshot Confusion Matrix kamu di sini)*
-`![Confusion Matrix](screenshots/confusion_matrix.png)`
+
+![Confusion Matrix](screenshots/confusion_matrix.png)
 
 ### Performance Metrics
 | Metric | Score | Keterangan |
